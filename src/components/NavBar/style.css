@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Pacifico;
+    src: url(../../assets/fonts/Pacifico-Regular.ttf);
+}
+
+.test{
+    border-top: 2px solid #ec9f1b;
+    border-bottom: 2px solid #ec9f1b;
+}
