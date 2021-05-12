@@ -9,7 +9,7 @@ import NavBar from "../../components/NavBar";
 import SocialIcons from "../../components/SocialIcons";
 
 const HomePage = () => {
-    return <Box display="flex" flexDirection="column" alignItems="center" justifyContent="center" height="100%">
+    return <Box display="flex" flexDirection="column" alignItems="center" justifyContent="center">
         <Box py={1}>
             <Logo/>
         </Box>
